@@ -1,0 +1,15 @@
+{
+    "ip": "localhost",
+    "port": 24444,
+    "prefix": "",
+    "remarks": "dutchsmp",
+    "apiKey": "57464564545454",
+    "connectOpts": {
+        "multiplex": false,
+        "reconnectionDelayMax": 3000,
+        "timeout": 3000,
+        "reconnection": true,
+        "reconnectionAttempts": 20,
+        "rejectUnauthorized": false
+    }
+}

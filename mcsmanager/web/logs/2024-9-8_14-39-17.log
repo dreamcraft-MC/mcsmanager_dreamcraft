@@ -1,0 +1,121 @@
+[09/08 14:18:26] [INFO] Number of local users: 1
+[09/08 14:18:26] [INFO] Attempting to connect to remote daemon:[d7372a99164f46889055113bb448a657] [ws://localhost:24444/dutchsmp]
+[09/08 14:18:26] [INFO] Attempting to connect to remote daemon:[e7d43fbe7bd24dec99aa711a45eaf58a] [ws://localhost:24444/]
+[09/08 14:18:26] [INFO] Number of remote daemons: 2
+[09/08 14:18:26] [INFO] ==================================
+[09/08 14:18:26] [INFO] Control panel has started
+[09/08 14:18:26] [INFO] Project Reference: https://github.com/mcsmanager
+[09/08 14:18:26] [INFO] Access URL: http://localhost:23333
+[09/08 14:18:26] [INFO] Public access requires opening ports 23333 and the daemon's port.
+[09/08 14:18:26] [INFO] You can use the Ctrl+C shortcut to close the program
+[09/08 14:18:26] [INFO] ==================================
+[09/08 14:18:26] [INFO] [HTTP] GET: http://localhost:23333/
+[09/08 14:18:26] [INFO] [HTTP] IP: ::1 USER: undefined UUID: undefined
+[09/08 14:18:26] [INFO] [HTTP] GET: http://localhost:23333/assets/index-ed595b9d.js
+[09/08 14:18:26] [INFO] [HTTP] IP: ::1 USER: undefined UUID: undefined
+[09/08 14:18:26] [INFO] [HTTP] GET: http://localhost:23333/assets/vue-2c9830b0.js
+[09/08 14:18:26] [INFO] [HTTP] IP: ::ffff:127.0.0.1 USER: undefined UUID: undefined
+[09/08 14:18:26] [INFO] [HTTP] GET: http://localhost:23333/assets/ant-13f77d60.js
+[09/08 14:18:26] [INFO] [HTTP] IP: ::ffff:127.0.0.1 USER: undefined UUID: undefined
+[09/08 14:18:26] [INFO] [HTTP] GET: http://localhost:23333/assets/ant-25a63267.css
+[09/08 14:18:26] [INFO] [HTTP] IP: ::1 USER: undefined UUID: undefined
+[09/08 14:18:26] [INFO] [HTTP] GET: http://localhost:23333/assets/ant-es-475d8a6b.js
+[09/08 14:18:26] [INFO] [HTTP] IP: ::1 USER: undefined UUID: undefined
+[09/08 14:18:27] [INFO] [HTTP] GET: http://localhost:23333/
+[09/08 14:18:27] [INFO] [HTTP] IP: ::1 USER: undefined UUID: undefined
+[09/08 14:18:27] [INFO] [HTTP] GET: http://localhost:23333/assets/ant-es-475d8a6b.js
+[09/08 14:18:27] [INFO] [HTTP] IP: ::1 USER: undefined UUID: undefined
+[09/08 14:18:27] [INFO] [HTTP] GET: http://localhost:23333/api/auth/status
+[09/08 14:18:27] [INFO] [HTTP] IP: ::1 USER: undefined UUID: undefined
+[09/08 14:18:27] [INFO] [HTTP] GET: http://localhost:23333/favicon.ico
+[09/08 14:18:27] [INFO] [HTTP] IP: ::1 USER: undefined UUID: undefined
+[09/08 14:18:27] [INFO] [HTTP] GET: http://localhost:23333/assets/mount-b729f888.js
+[09/08 14:18:27] [INFO] [HTTP] IP: ::1 USER: undefined UUID: undefined
+[09/08 14:18:27] [INFO] [HTTP] GET: http://localhost:23333/assets/echart-372a619d.js
+[09/08 14:18:27] [INFO] [HTTP] IP: ::1 USER: undefined UUID: undefined
+[09/08 14:18:27] [INFO] [HTTP] GET: http://localhost:23333/assets/zrender-bd06e061.js
+[09/08 14:18:27] [INFO] [HTTP] IP: ::1 USER: undefined UUID: undefined
+[09/08 14:18:27] [INFO] [HTTP] GET: http://localhost:23333/assets/xterm-a429e2b3.js
+[09/08 14:18:27] [INFO] [HTTP] IP: ::1 USER: undefined UUID: undefined
+[09/08 14:18:27] [INFO] [HTTP] GET: http://localhost:23333/assets/codemirror-df17d2c3.js
+[09/08 14:18:27] [INFO] [HTTP] IP: ::1 USER: undefined UUID: undefined
+[09/08 14:18:27] [INFO] [HTTP] GET: http://localhost:23333/assets/htmlparser2-853edd9c.js
+[09/08 14:18:27] [INFO] [HTTP] IP: ::1 USER: undefined UUID: undefined
+[09/08 14:18:27] [INFO] [HTTP] GET: http://localhost:23333/assets/mount-c4e2a1fc.css
+[09/08 14:18:27] [INFO] [HTTP] IP: ::1 USER: undefined UUID: undefined
+[09/08 14:18:28] [INFO] [HTTP] GET: http://localhost:23333/api/auth/
+[09/08 14:18:28] [INFO] [HTTP] IP: ::1 USER: undefined UUID: undefined
+[09/08 14:18:28] [INFO] [HTTP] GET: http://localhost:23333/assets/logo-586bf317.png
+[09/08 14:18:28] [INFO] [HTTP] IP: ::1 USER: undefined UUID: undefined
+[09/08 14:18:28] [INFO] [HTTP] GET: http://localhost:23333/api/auth/login_info
+[09/08 14:18:28] [INFO] [HTTP] IP: ::1 USER: undefined UUID: undefined
+[09/08 14:18:29] [INFO] [HTTP] GET: http://localhost:23333/api/auth/status
+[09/08 14:18:29] [INFO] [HTTP] IP: ::1 USER: undefined UUID: undefined
+[09/08 14:18:29] [INFO] [HTTP] GET: http://localhost:23333/api/auth/
+[09/08 14:18:29] [INFO] [HTTP] IP: ::1 USER: undefined UUID: undefined
+[09/08 14:18:30] [INFO] [HTTP] GET: http://localhost:23333/api/auth/login_info
+[09/08 14:18:30] [INFO] [HTTP] IP: ::1 USER: undefined UUID: undefined
+[09/08 14:18:32] [INFO] [HTTP] POST: http://localhost:23333/api/auth/login
+[09/08 14:18:32] [INFO] [HTTP] IP: ::1 USER: undefined UUID: undefined
+[09/08 14:18:32] [INFO] ------ User Login Event ------
+[09/08 14:18:32] [INFO] [LOGIN] IP: ::1 Login DreamCraft successful!
+[09/08 14:18:32] [INFO] [LOGIN] Token: 24929a1397ae41eeb7e1929d3674ec481725797912397
+[09/08 14:18:32] [INFO] ------ User Login Event ------
+[09/08 14:18:33] [INFO] [HTTP] GET: http://localhost:23333/api/auth/
+[09/08 14:18:33] [INFO] [HTTP] IP: ::1 USER: DreamCraft UUID: 96e4f681e4814f30b859491d6f0c8288
+[09/08 14:19:26] [WARN] Daemon exception detected: dutchsmp localhost:24444, reconnecting...
+[09/08 14:19:26] [INFO] User initiated a duplicate connection request, resetting connection configuration:[d7372a99164f46889055113bb448a657] [ws://localhost:24444/dutchsmp]
+[09/08 14:19:26] [INFO] Disconnected remote daemon [d7372a99164f46889055113bb448a657] [localhost:24444]
+[09/08 14:19:26] [INFO] Attempting to connect to remote daemon:[d7372a99164f46889055113bb448a657] [ws://localhost:24444/dutchsmp]
+[09/08 14:19:26] [WARN] Daemon exception detected:  localhost:24444, reconnecting...
+[09/08 14:19:26] [INFO] User initiated a duplicate connection request, resetting connection configuration:[e7d43fbe7bd24dec99aa711a45eaf58a] [ws://localhost:24444/]
+[09/08 14:19:26] [INFO] Disconnected remote daemon [e7d43fbe7bd24dec99aa711a45eaf58a] [localhost:24444]
+[09/08 14:19:26] [INFO] Attempting to connect to remote daemon:[e7d43fbe7bd24dec99aa711a45eaf58a] [ws://localhost:24444/]
+[09/08 14:20:26] [WARN] Daemon exception detected: dutchsmp localhost:24444, reconnecting...
+[09/08 14:20:26] [INFO] User initiated a duplicate connection request, resetting connection configuration:[d7372a99164f46889055113bb448a657] [ws://localhost:24444/dutchsmp]
+[09/08 14:20:26] [INFO] Disconnected remote daemon [d7372a99164f46889055113bb448a657] [localhost:24444]
+[09/08 14:20:26] [INFO] Attempting to connect to remote daemon:[d7372a99164f46889055113bb448a657] [ws://localhost:24444/dutchsmp]
+[09/08 14:20:26] [WARN] Daemon exception detected:  localhost:24444, reconnecting...
+[09/08 14:20:26] [INFO] User initiated a duplicate connection request, resetting connection configuration:[e7d43fbe7bd24dec99aa711a45eaf58a] [ws://localhost:24444/]
+[09/08 14:20:26] [INFO] Disconnected remote daemon [e7d43fbe7bd24dec99aa711a45eaf58a] [localhost:24444]
+[09/08 14:20:26] [INFO] Attempting to connect to remote daemon:[e7d43fbe7bd24dec99aa711a45eaf58a] [ws://localhost:24444/]
+[09/08 14:21:26] [WARN] Daemon exception detected: dutchsmp localhost:24444, reconnecting...
+[09/08 14:21:26] [INFO] User initiated a duplicate connection request, resetting connection configuration:[d7372a99164f46889055113bb448a657] [ws://localhost:24444/dutchsmp]
+[09/08 14:21:26] [INFO] Disconnected remote daemon [d7372a99164f46889055113bb448a657] [localhost:24444]
+[09/08 14:21:26] [INFO] Attempting to connect to remote daemon:[d7372a99164f46889055113bb448a657] [ws://localhost:24444/dutchsmp]
+[09/08 14:21:26] [WARN] Daemon exception detected:  localhost:24444, reconnecting...
+[09/08 14:21:26] [INFO] User initiated a duplicate connection request, resetting connection configuration:[e7d43fbe7bd24dec99aa711a45eaf58a] [ws://localhost:24444/]
+[09/08 14:21:26] [INFO] Disconnected remote daemon [e7d43fbe7bd24dec99aa711a45eaf58a] [localhost:24444]
+[09/08 14:21:26] [INFO] Attempting to connect to remote daemon:[e7d43fbe7bd24dec99aa711a45eaf58a] [ws://localhost:24444/]
+[09/08 14:22:26] [WARN] Daemon exception detected: dutchsmp localhost:24444, reconnecting...
+[09/08 14:22:26] [INFO] User initiated a duplicate connection request, resetting connection configuration:[d7372a99164f46889055113bb448a657] [ws://localhost:24444/dutchsmp]
+[09/08 14:22:26] [INFO] Disconnected remote daemon [d7372a99164f46889055113bb448a657] [localhost:24444]
+[09/08 14:22:26] [INFO] Attempting to connect to remote daemon:[d7372a99164f46889055113bb448a657] [ws://localhost:24444/dutchsmp]
+[09/08 14:22:26] [WARN] Daemon exception detected:  localhost:24444, reconnecting...
+[09/08 14:22:26] [INFO] User initiated a duplicate connection request, resetting connection configuration:[e7d43fbe7bd24dec99aa711a45eaf58a] [ws://localhost:24444/]
+[09/08 14:22:26] [INFO] Disconnected remote daemon [e7d43fbe7bd24dec99aa711a45eaf58a] [localhost:24444]
+[09/08 14:22:26] [INFO] Attempting to connect to remote daemon:[e7d43fbe7bd24dec99aa711a45eaf58a] [ws://localhost:24444/]
+[09/08 14:23:26] [WARN] Daemon exception detected: dutchsmp localhost:24444, reconnecting...
+[09/08 14:23:26] [INFO] User initiated a duplicate connection request, resetting connection configuration:[d7372a99164f46889055113bb448a657] [ws://localhost:24444/dutchsmp]
+[09/08 14:23:26] [INFO] Disconnected remote daemon [d7372a99164f46889055113bb448a657] [localhost:24444]
+[09/08 14:23:26] [INFO] Attempting to connect to remote daemon:[d7372a99164f46889055113bb448a657] [ws://localhost:24444/dutchsmp]
+[09/08 14:23:26] [WARN] Daemon exception detected:  localhost:24444, reconnecting...
+[09/08 14:23:26] [INFO] User initiated a duplicate connection request, resetting connection configuration:[e7d43fbe7bd24dec99aa711a45eaf58a] [ws://localhost:24444/]
+[09/08 14:23:26] [INFO] Disconnected remote daemon [e7d43fbe7bd24dec99aa711a45eaf58a] [localhost:24444]
+[09/08 14:23:26] [INFO] Attempting to connect to remote daemon:[e7d43fbe7bd24dec99aa711a45eaf58a] [ws://localhost:24444/]
+[09/08 14:24:26] [WARN] Daemon exception detected: dutchsmp localhost:24444, reconnecting...
+[09/08 14:24:26] [INFO] User initiated a duplicate connection request, resetting connection configuration:[d7372a99164f46889055113bb448a657] [ws://localhost:24444/dutchsmp]
+[09/08 14:24:26] [INFO] Disconnected remote daemon [d7372a99164f46889055113bb448a657] [localhost:24444]
+[09/08 14:24:26] [INFO] Attempting to connect to remote daemon:[d7372a99164f46889055113bb448a657] [ws://localhost:24444/dutchsmp]
+[09/08 14:24:26] [WARN] Daemon exception detected:  localhost:24444, reconnecting...
+[09/08 14:24:26] [INFO] User initiated a duplicate connection request, resetting connection configuration:[e7d43fbe7bd24dec99aa711a45eaf58a] [ws://localhost:24444/]
+[09/08 14:24:26] [INFO] Disconnected remote daemon [e7d43fbe7bd24dec99aa711a45eaf58a] [localhost:24444]
+[09/08 14:24:26] [INFO] Attempting to connect to remote daemon:[e7d43fbe7bd24dec99aa711a45eaf58a] [ws://localhost:24444/]
+[09/08 14:25:26] [WARN] Daemon exception detected: dutchsmp localhost:24444, reconnecting...
+[09/08 14:25:26] [INFO] User initiated a duplicate connection request, resetting connection configuration:[d7372a99164f46889055113bb448a657] [ws://localhost:24444/dutchsmp]
+[09/08 14:25:26] [INFO] Disconnected remote daemon [d7372a99164f46889055113bb448a657] [localhost:24444]
+[09/08 14:25:26] [INFO] Attempting to connect to remote daemon:[d7372a99164f46889055113bb448a657] [ws://localhost:24444/dutchsmp]
+[09/08 14:25:26] [WARN] Daemon exception detected:  localhost:24444, reconnecting...
+[09/08 14:25:26] [INFO] User initiated a duplicate connection request, resetting connection configuration:[e7d43fbe7bd24dec99aa711a45eaf58a] [ws://localhost:24444/]
+[09/08 14:25:26] [INFO] Disconnected remote daemon [e7d43fbe7bd24dec99aa711a45eaf58a] [localhost:24444]
+[09/08 14:25:26] [INFO] Attempting to connect to remote daemon:[e7d43fbe7bd24dec99aa711a45eaf58a] [ws://localhost:24444/]

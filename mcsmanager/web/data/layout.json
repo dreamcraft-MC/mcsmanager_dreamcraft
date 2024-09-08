@@ -1,0 +1,507 @@
+[
+  {
+    "page": "__settings__",
+    "items": [],
+    "theme": {
+      "backgroundImage": ""
+    }
+  },
+  {
+    "page": "/",
+    "items": [
+      {
+        "id": "f4961c99-9217-4077-be85-49206963f187",
+        "type": "StatusBlock",
+        "title": "aan",
+        "meta": {
+          "type": "node"
+        },
+        "width": 3,
+        "description": "Used for administrators to view server data",
+        "height": "200px"
+      },
+      {
+        "id": "56b419e0-959c-4d1d-b299-bce7d8f11f97",
+        "type": "StatusBlock",
+        "title": "Instance",
+        "meta": {
+          "type": "instance"
+        },
+        "width": 3,
+        "description": "Used for administrators to view server data",
+        "height": "200px"
+      },
+      {
+        "id": "5d5ebee8-1981-41f4-9303-94b1d4169ac7",
+        "type": "StatusBlock",
+        "title": "Login Count",
+        "meta": {
+          "type": "users"
+        },
+        "width": 3,
+        "description": "Used for administrators to view server data",
+        "height": "200px"
+      },
+      {
+        "id": "222b4061-9129-4fed-9f5c-d2c2bf500144",
+        "type": "StatusBlock",
+        "title": "System Resource",
+        "meta": {
+          "type": "system"
+        },
+        "width": 3,
+        "description": "Used for administrators to view server data",
+        "height": "200px"
+      },
+      {
+        "id": "85315b7f-6a34-4fb8-9293-eeb53bd3bfe6",
+        "meta": {},
+        "type": "QuickStart",
+        "title": "Quick Start",
+        "width": 3,
+        "description": "Used for administrators to view server data",
+        "height": "400px"
+      },
+      {
+        "id": "9ec884d9-ec30-4f75-9468-0fdd4156d13b",
+        "meta": {},
+        "type": "RequestChart",
+        "title": "Interface Requests",
+        "width": 6,
+        "description": "Used for administrators to view server data",
+        "height": "200px"
+      },
+      {
+        "id": "5b01579c-4991-4bb5-a739-4e9f4b0ff5a8",
+        "meta": {},
+        "type": "InstanceChart",
+        "title": "Running Instances",
+        "width": 6,
+        "description": "Used for administrators to view server data",
+        "height": "200px"
+      },
+      {
+        "id": "c7483450-4870-4826-aac1-45d22940ed64",
+        "meta": {},
+        "type": "NodeOverview",
+        "title": "Daemon Status",
+        "width": 12,
+        "description": "Used for administrators to view server data",
+        "height": "400px"
+      },
+      {
+        "id": "71e35fef-8979-4025-a9cd-5bb2e0c83b06",
+        "permission": 0,
+        "meta": {},
+        "type": "TitleCard",
+        "title": "Unnamed Title",
+        "width": 12,
+        "description": "This card can be used for sectioning or formatting, like titles in an article.",
+        "height": "unset",
+        "category": "COMMON"
+      }
+    ]
+  },
+  {
+    "page": "/instances",
+    "items": [
+      {
+        "id": "8c75f063-6365-436a-b016-fec788d3c04f",
+        "meta": {},
+        "type": "InstanceList",
+        "title": "Instances",
+        "width": 12,
+        "height": "unset",
+        "disableDelete": true
+      },
+      {
+        "id": "b2c878a6-162e-4aba-a403-612accdd8953",
+        "meta": {},
+        "type": "EmptyCard",
+        "title": "",
+        "width": 12,
+        "height": "100px"
+      }
+    ]
+  },
+  {
+    "page": "/instances/terminal",
+    "items": [
+      {
+        "id": "2ce95061-13cd-4d3c-9f40-f371ee6bb157",
+        "meta": {
+          "viewType": "inner"
+        },
+        "type": "Terminal",
+        "title": "Console",
+        "width": 12,
+        "height": "600px",
+        "disableDelete": true
+      },
+      {
+        "id": "42c45111-31e9-44c1-85cf-9ee94f218727",
+        "meta": {},
+        "type": "InstanceBaseInfo",
+        "title": "Basic Infomation",
+        "width": 4,
+        "height": "200px"
+      },
+      {
+        "id": "cc01b0a1-1eb9-4554-9690-f2a40ddd0fc5",
+        "meta": {},
+        "type": "InstanceManagerBtns",
+        "title": "Manage Instance",
+        "width": 8,
+        "height": "200px",
+        "disableDelete": true
+      }
+    ]
+  },
+  {
+    "page": "/instances/terminal/files",
+    "items": [
+      {
+        "id": "ed072aa6-7a3a-462b-abce-d4312b85209e",
+        "meta": {},
+        "type": "InstanceFileManager",
+        "title": "File Management",
+        "width": 12,
+        "height": "unset",
+        "disableDelete": true
+      },
+      {
+        "id": "91c852a2-110e-40fd-9704-c43ec4eabf93",
+        "meta": {},
+        "type": "EmptyCard",
+        "title": "",
+        "width": 12,
+        "height": "100px"
+      }
+    ]
+  },
+  {
+    "page": "/instances/terminal/serverConfig",
+    "items": [
+      {
+        "id": "0f137e9b-b502-4c61-942b-c358bc761c20",
+        "meta": {},
+        "type": "InstanceServerConfigOverview",
+        "title": "Configuration Files",
+        "width": 12,
+        "height": "unset",
+        "disableDelete": true
+      },
+      {
+        "id": "b5f7a7c7-682e-448d-8f9b-5041e3f1b714",
+        "meta": {},
+        "type": "EmptyCard",
+        "title": "",
+        "width": 12,
+        "height": "100px"
+      }
+    ]
+  },
+  {
+    "page": "/instances/terminal/serverConfig/fileEdit",
+    "items": [
+      {
+        "id": "54c50349-1521-47ec-8ea2-b18e5c241e1a",
+        "meta": {},
+        "type": "InstanceServerConfigFile",
+        "title": "Edit Server Configuration File",
+        "width": 12,
+        "height": "unset",
+        "disableDelete": true
+      },
+      {
+        "id": "8ad04630-76ed-44df-9634-8e5d4720c957",
+        "meta": {},
+        "type": "EmptyCard",
+        "title": "",
+        "width": 12,
+        "height": "100px"
+      }
+    ]
+  },
+  {
+    "page": "/instances/schedule",
+    "items": [
+      {
+        "id": "b3ca0fd4-dbfd-40ab-84a9-8539721745f1",
+        "meta": {},
+        "type": "Schedule",
+        "title": "Scheduled Tasks",
+        "width": 12,
+        "height": "unset",
+        "disableDelete": true
+      },
+      {
+        "id": "e1006853-7c2a-4fb2-b413-1032b4b9e182",
+        "meta": {},
+        "type": "EmptyCard",
+        "title": "",
+        "width": 12,
+        "height": "100px"
+      }
+    ]
+  },
+  {
+    "page": "/users",
+    "items": [
+      {
+        "id": "d3ffb239-0cd2-401d-9f58-4c2b971d070f",
+        "meta": {},
+        "type": "UserList",
+        "title": "Users",
+        "width": 12,
+        "height": "unset",
+        "disableDelete": true
+      },
+      {
+        "id": "902795af-d8b0-47c1-a3b1-320d51f31106",
+        "meta": {},
+        "type": "EmptyCard",
+        "title": "",
+        "width": 12,
+        "height": "100px"
+      }
+    ]
+  },
+  {
+    "page": "/users/resources",
+    "items": [
+      {
+        "id": "e5f991ff-a33e-48b6-a285-d08fd3a4b16d",
+        "meta": {},
+        "type": "UserAccessSettings",
+        "title": "User Resource Management",
+        "width": 12,
+        "height": "unset",
+        "disableDelete": true
+      },
+      {
+        "id": "c4f51c68-1e38-4933-bda3-891b2d427e48",
+        "meta": {},
+        "type": "EmptyCard",
+        "title": "",
+        "width": 12,
+        "height": "100px"
+      }
+    ]
+  },
+  {
+    "page": "/settings",
+    "items": [
+      {
+        "id": "fa12da02-137b-4405-967a-1cf1a37f43cc",
+        "meta": {},
+        "type": "Settings",
+        "title": "System Settings",
+        "width": 8,
+        "height": "800px",
+        "disableDelete": true
+      }
+    ]
+  },
+  {
+    "page": "/node",
+    "items": [
+      {
+        "id": "cbd9438c-845b-436d-8fd5-1afe90784f6f",
+        "meta": {},
+        "type": "NodeList",
+        "title": "Daemons",
+        "width": 12,
+        "height": "unset",
+        "disableDelete": true
+      },
+      {
+        "id": "9cf50e27-4170-4a22-9b47-62f0900b3ad2",
+        "meta": {},
+        "type": "EmptyCard",
+        "title": "",
+        "width": 12,
+        "height": "100px"
+      }
+    ]
+  },
+  {
+    "page": "/node/image",
+    "items": [
+      {
+        "id": "77a81d8c-fc42-4af0-8b66-db360e48c4e1",
+        "meta": {},
+        "type": "ImageManager",
+        "title": "Manage Images",
+        "width": 12,
+        "height": "unset",
+        "disableDelete": true
+      },
+      {
+        "id": "47003e84-e2af-4ad4-b588-70d8bd87c75c",
+        "meta": {},
+        "type": "EmptyCard",
+        "title": "",
+        "width": 12,
+        "height": "100px"
+      }
+    ]
+  },
+  {
+    "page": "/node/image/new",
+    "items": [
+      {
+        "id": "3904bbf7-2959-48ba-aeda-fab7265369d0",
+        "meta": {},
+        "type": "NewImage",
+        "title": "Create Image",
+        "width": 12,
+        "height": "unset",
+        "disableDelete": true
+      },
+      {
+        "id": "0fb602ac-8f5a-4c91-8a45-f43155350d55",
+        "meta": {},
+        "type": "EmptyCard",
+        "title": "",
+        "width": 12,
+        "height": "100px"
+      }
+    ]
+  },
+  {
+    "page": "/quickstart",
+    "items": [
+      {
+        "id": "139da64a-1625-4aeb-bd71-3a7de86a5291",
+        "meta": {},
+        "type": "QuickStartFlow",
+        "title": "Quickly Deploy Application Instances",
+        "width": 8,
+        "height": "unset"
+      }
+    ]
+  },
+  {
+    "page": "/quickstart/minecraft",
+    "items": [
+      {
+        "id": "e07aaf5b-fe47-4b5d-ba4d-b62eec3570c3",
+        "meta": {},
+        "type": "McPreset",
+        "title": "",
+        "width": 12,
+        "height": "unset"
+      },
+      {
+        "id": "0de4f4e4-df1d-4737-90a4-f5de7fbd6509",
+        "meta": {},
+        "type": "EmptyCard",
+        "title": "",
+        "width": 12,
+        "height": "100px"
+      }
+    ]
+  },
+  {
+    "page": "/customer",
+    "items": [
+      {
+        "id": "a36833d4-02b1-40af-87dd-cd2d64c8bed8",
+        "type": "UserStatusBlock",
+        "title": "Total Instances",
+        "meta": {
+          "type": "instance_all"
+        },
+        "width": 3,
+        "height": "200px",
+        "disableDelete": true
+      },
+      {
+        "id": "7b00c3ff-56b4-4695-b34b-bfb8dd3f4c81",
+        "type": "UserStatusBlock",
+        "title": "Running",
+        "meta": {
+          "type": "instance_running"
+        },
+        "width": 3,
+        "height": "200px",
+        "disableDelete": true
+      },
+      {
+        "id": "e3520169-7411-4323-8141-f05d7cb25097",
+        "type": "UserStatusBlock",
+        "title": "Stopped",
+        "meta": {
+          "type": "instance_stop"
+        },
+        "width": 3,
+        "height": "200px",
+        "disableDelete": true
+      },
+      {
+        "id": "3abdd41c-309f-4fdf-b32d-a8877cd1d221",
+        "type": "UserStatusBlock",
+        "title": "Under Maintenance",
+        "meta": {
+          "type": "instance_error"
+        },
+        "width": 3,
+        "height": "200px",
+        "disableDelete": true
+      },
+      {
+        "id": "d7f5b4ae-13bf-4de2-8189-bd5e8331a35e",
+        "type": "UserInstanceList",
+        "title": "Instance List",
+        "meta": {
+          "type": "instance_error"
+        },
+        "width": 12,
+        "height": "unset",
+        "disableDelete": true
+      }
+    ]
+  },
+  {
+    "page": "/login",
+    "items": [
+      {
+        "id": "d997a48b-12ef-4333-9d3b-b794000cc195",
+        "meta": {},
+        "type": "LoginCard",
+        "title": "Authentication",
+        "width": 4,
+        "height": "unset",
+        "disableDelete": true
+      }
+    ]
+  },
+  {
+    "page": "/404",
+    "items": [
+      {
+        "id": "13bfd988-6c88-4d56-800f-55037fdc05f7",
+        "meta": {},
+        "type": "Page404",
+        "title": "Page Not Found",
+        "width": 6,
+        "height": "100px",
+        "disableDelete": true
+      }
+    ]
+  },
+  {
+    "page": "/_open_page",
+    "items": [
+      {
+        "id": "ebc9f3b9-b3ef-4724-b930-979f89e49171",
+        "meta": {},
+        "type": "DefaultCard",
+        "title": "About This Page",
+        "width": 6,
+        "height": "200px"
+      }
+    ]
+  }
+]

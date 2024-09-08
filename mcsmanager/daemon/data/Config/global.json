@@ -1,0 +1,11 @@
+{
+    "version": 2,
+    "ip": "",
+    "port": 24444,
+    "prefix": "",
+    "key": "92a8623c6236417c98dfa3b876d4c0c99bea29710cf01fb",
+    "maxFileTask": 2,
+    "maxZipFileSize": 200,
+    "language": "en_us",
+    "defaultInstancePath": ""
+}

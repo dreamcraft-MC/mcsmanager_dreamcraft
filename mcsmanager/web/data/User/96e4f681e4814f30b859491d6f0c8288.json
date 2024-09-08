@@ -1,0 +1,15 @@
+{
+    "uuid": "96e4f681e4814f30b859491d6f0c8288",
+    "userName": "DreamCraft",
+    "passWord": "$2a$10$IEErKbFSzhwaACkAms20MuWvTNS1bEvxwW3HqfDxEdwEkeRUB11jO",
+    "passWordType": 1,
+    "salt": "",
+    "permission": 10,
+    "registerTime": "8/9/2024 14:02:47",
+    "loginTime": "",
+    "instances": [],
+    "apiKey": "",
+    "isInit": false,
+    "secret": "",
+    "open2FA": false
+}
